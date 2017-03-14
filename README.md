@@ -1,25 +1,17 @@
-**IMPORTANT: [Nova](https://github.com/TelescopeJS/Telescope/tree/nova) is a new, React-based version of Telescope. Although it's still beta software, it is recommended you use it for any new projects going forward.**
+# Telescope Nova
 
----
+[Version 1.0.0](https://github.com/TelescopeJS/Telescope/releases)
 
-Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
+This is the Apollo/GraphQL version of Telescope Nova. [You can find the documentation here](http://nova-docs.telescopeapp.org/).
 
-**Note:** Telescope is beta software. Most of it should work but it's still a little unpolished and you'll probably find some bugs. Use at your own risk :)
+The fastest way to get started is:
+```sh
+npm install
+npm start
+```
 
-Note that Telescope is distributed under the [MIT License](http://opensource.org/licenses/MIT)
+### Other Versions
 
-### Getting Started
+You can find the older, non-Apollo version of Telescope Nova on the [nova-classic](https://github.com/TelescopeJS/Telescope/tree/nova-classic) branch. 
 
-Note that while simply cloning this repository will work, it is recommended you clone the [sample project](https://github.com/TelescopeJS/sample-project/) repository instead for a simpler workflow.
-
-Please refer to [the documentation](http://telescope.readme.io/docs) for more instructions on installing Telescope.
-
-### Learn More
-
-- [Homepage](http://telescopeapp.org)
-- [Demo](http://demo2.telescopeapp.org)
-- [Sample Project](https://github.com/TelescopeJS/sample-project/)
-- [Documentation](http://telescope.readme.io/docs)
-- [Roadmap](https://trello.com/b/oLMMqjVL/telescope-roadmap)
-- [Slack](http://slack.telescopeapp.org/)
-- [Meta](http://meta.telescopeapp.org/) – Discussions about Telescope
+You can find the even older, non-React version of Telescope on the [legacy](https://github.com/TelescopeJS/Telescope/tree/legacy) branch.
